@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "task": "first",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "task": "second",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "task": "third",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "task": "fourth",
+      "completed": true,
+      "id": 4
+    }
+  ]
+}
